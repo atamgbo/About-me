@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atamgbo
 - 👀 I’m passionate about Data Extracting, Cleaning,Interpretation, Visualization and Reporting.
 - 🌱 I’m currently working on Data Analytics projects using SQL, Excel, R, Python and Tableau
-- 💞️ I’m looking to add values in organizations using my knowledge and experience with Data extraction, cleaning, sorting, visualization and interpretation.
+- 💞️ I’m looking to use my knowledge and experience in Data Analytics to strategize, improve and optimize business decisions
 - 📫 You can reach me at atamgboayuwu@gmail.com
 
 <!---
